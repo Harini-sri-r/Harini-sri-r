@@ -1,4 +1,4 @@
-👋 Hi, I'm Harini Sri R
+👋 Hi, I'm Harini sri R
 
 🎓 B.Tech Student | Passionate about building real-world applications
 💡 Interested in problem-solving, data-driven solutions, and modern technologies
