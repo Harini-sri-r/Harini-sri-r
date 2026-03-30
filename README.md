@@ -48,8 +48,8 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science. 
 
 ## 📊 Coding Practice
 
-I regularly practice problem solving on LeetCode:
-https://leetcode.com/harinibrindhasri
+* LeetCode: https://leetcode.com/harinibrindhasri
+* GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2/
 
 ---
 
