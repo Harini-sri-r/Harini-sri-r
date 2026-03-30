@@ -1,21 +1,21 @@
 # Hi 👋 I'm Harini
 
-I’m a B.Tech student specializing in Artificial Intelligence and Data Science, with a strong interest in building practical and meaningful tech solutions.
+I am a B.Tech student specializing in Artificial Intelligence and Data Science. I enjoy building practical applications using AI and web technologies.
 
 ---
 
 ## 🧠 About Me
 
-* I enjoy working on problems related to AI and data-driven applications
-* I am currently learning Machine Learning concepts and applying them to real-world ideas
-* I also like developing web applications using HTML, CSS, and JavaScript
-* I am continuously improving my problem-solving and development skills
+* Interested in Artificial Intelligence, Data Science, and Full Stack Development
+* Currently learning Machine Learning and applying it to real-world problems
+* Comfortable building web applications using HTML, CSS, and JavaScript
+* Continuously improving problem-solving and development skills
 
 ---
 
 ## 💻 Skills
 
-### Programming
+### Programming Languages
 
 * Python
 * Java
@@ -28,20 +28,21 @@ I’m a B.Tech student specializing in Artificial Intelligence and Data Science,
 
 ### AI & Data
 
-* Machine Learning (beginner level)
+* Machine Learning (beginner)
 * Data Analysis
 
 ### Tools
 
 * Power BI
-* Git & GitHub
+* Git
+* GitHub
 
 ---
 
 ## 📂 Project
 
 * 📌 [Covid-19 Power BI Dashboard](https://github.com/Harini-sri-r/Covid-19-Dataset-Analysis)
-  This project focuses on analyzing COVID-19 data and presenting insights through interactive dashboards using Power BI.
+  An interactive dashboard that analyzes COVID-19 data and presents insights using Power BI.
 
 ---
 
@@ -52,9 +53,9 @@ https://leetcode.com/harinibrindhasri
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
-![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harini-sri-r\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-sri-r\&show_icons=true\&cache_seconds=1800)
 
 ---
 
@@ -65,4 +66,4 @@ https://leetcode.com/harinibrindhasri
 
 ---
 
-Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
