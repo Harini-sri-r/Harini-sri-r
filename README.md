@@ -1,6 +1,6 @@
 # Hi 👋 I'm Harini
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Science. I enjoy building practical applications using AI and web technologies.
+I am a B.Tech student specializing in Artificial Intelligence and Data Science, interested in building practical applications using technology and web development.
 
 ---
 
