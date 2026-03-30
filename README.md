@@ -1,6 +1,7 @@
-# Hi 👋 I'm Harini
+👋 Hi, I'm Harini Sri R
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Science, interested in building practical applications using technology and web development.
+🎓 B.Tech Student | Passionate about building real-world applications
+💡 Interested in problem-solving, data-driven solutions, and modern technologies
 
 ---
 
