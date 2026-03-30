@@ -53,12 +53,6 @@ https://leetcode.com/harinibrindhasri
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-sri-r\&show_icons=true\&cache_seconds=1800)
-
----
-
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
