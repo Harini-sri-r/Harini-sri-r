@@ -1,64 +1,66 @@
-👋 Hi, I'm Harini sri R
+# Hi, I'm Harini Sri R 👋
 
-🎓 B.Tech Student | Passionate about building real-world applications
-💡 Interested in problem-solving, data-driven solutions, and modern technologies
-
----
-
-## 🧠 About Me
-
-* Interested in Artificial Intelligence, Data Science, and Full Stack Development
-* Currently learning Machine Learning and applying it to real-world problems
-* Comfortable building web applications using HTML, CSS, and JavaScript
-* Continuously improving problem-solving and development skills
+I’m currently pursuing a B.Tech in Artificial Intelligence and Data Science.  
+I enjoy learning how technology can solve real-world problems and I’m actively working on improving my development and problem-solving skills.
 
 ---
 
-## 💻 Skills
+## About Me
 
-### Programming Languages
-
-* Python
-* Java
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-
-### AI & Data
-
-* Machine Learning (beginner)
-* Data Analysis
-
-### Tools
-
-* Power BI
-* Git
-* GitHub
+I am interested in areas like Artificial Intelligence, Data Science, and Web Development.  
+Right now, I’m focusing on understanding Machine Learning concepts and trying to apply them through small projects.
+I also practice coding regularly to strengthen my logical thinking and programming skills.
 
 ---
 
-## 📂 Project
+## Skills
 
-* 📌 [Covid-19 Power BI Dashboard](https://github.com/Harini-sri-r/Covid-19-Dataset-Analysis)
-  An interactive dashboard that analyzes COVID-19 data and presents insights using Power BI.
+**Programming Languages**
+- Python  
+- Java  
+
+**Web Development**
+- HTML  
+- CSS  
+- JavaScript  
+
+**AI & Data**
+- Basics of Machine Learning  
+- Data Analysis  
+
+**Tools**
+- Power BI  
+- Git & GitHub  
 
 ---
 
-## 📊 Coding Practice
+## Projects
 
-* LeetCode: https://leetcode.com/harinibrindhasri
-* GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2/
+**Weather Application**  
+A simple web application that displays weather information with a clean and responsive interface.
+
+**Book Management App (Booksky)**  
+A beginner-friendly project to add and manage books using basic web technologies.
+
+**COVID-19 Dashboard**  
+A Power BI dashboard that visualizes COVID-19 data and helps understand trends.
 
 ---
 
-## 📫 Contact
+## Coding Practice
 
-* LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
-* Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+I regularly practice coding on:
+
+- LeetCode: https://leetcode.com/harinibrindhasri  
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2/  
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/  
+- Email: harinibrindhasri@gmail.com  
+
+---
+
+Thanks for visiting my profile!
