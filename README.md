@@ -1,66 +1,66 @@
-# Hi, I'm Harini Sri R 👋
+# 👋 Hi, I'm Harini Sri R
 
-I’m currently pursuing a B.Tech in Artificial Intelligence and Data Science.  
-I enjoy learning how technology can solve real-world problems and I’m actively working on improving my development and problem-solving skills.
-
----
-
-## About Me
-
-I am interested in areas like Artificial Intelligence, Data Science, and Web Development.  
-Right now, I’m focusing on understanding Machine Learning concepts and trying to apply them through small projects.
-I also practice coding regularly to strengthen my logical thinking and programming skills.
+🎓 B.Tech Student in Artificial Intelligence and Data Science
+💻 Passionate about coding, problem-solving, and building intelligent systems
+🚀 Focused on becoming a Data Scientist
 
 ---
 
-## Skills
+## 🔍 About Me
 
-**Programming Languages**
-- Python  
-- Java  
-
-**Web Development**
-- HTML  
-- CSS  
-- JavaScript  
-
-**AI & Data**
-- Basics of Machine Learning  
-- Data Analysis  
-
-**Tools**
-- Power BI  
-- Git & GitHub  
+I am interested in applying technology to solve real-world problems.
+Currently, I am strengthening my programming skills, exploring Machine Learning concepts, and building small projects to improve my practical knowledge.
 
 ---
 
-## Projects
+## 💻 Skills
 
-**Weather Application**  
-A simple web application that displays weather information with a clean and responsive interface.
+### 👩‍💻 Programming Languages
 
-**Book Management App (Booksky)**  
-A beginner-friendly project to add and manage books using basic web technologies.
+* Python
+* Java
 
-**COVID-19 Dashboard**  
-A Power BI dashboard that visualizes COVID-19 data and helps understand trends.
+### 🌐 Web Development
 
----
+* HTML
+* CSS
+* JavaScript
 
-## Coding Practice
+### 🤖 AI & Data
 
-I regularly practice coding on:
+* Machine Learning
+* Data Analysis
 
-- LeetCode: https://leetcode.com/harinibrindhasri  
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2/  
+### 🛠️ Tools
 
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/  
-- Email: harinibrindhasri@gmail.com  
+* Power BI
+* Git & GitHub
 
 ---
 
-Thanks for visiting my profile!
+## 🚀 Projects
+
+* 🧠 Mental Health Chatbot (AI-based emotional support system using NLP)
+* 📊 COVID-19 Dashboard (Power BI data visualization of pandemic trends and insights)
+* 🌦️ Weather Application
+* 📚 Book Management App (Booksky)
+
+---
+
+## 🧠 Coding Practice
+
+I regularly practice coding to improve my problem-solving skills:
+
+* LeetCode: https://leetcode.com/harinibrindhasri
+* GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2/
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
+* Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+
+---
+
+⭐ *“Consistently learning and improving step by step.”*
