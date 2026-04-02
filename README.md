@@ -1,58 +1,72 @@
 # 👋 Hi, I'm Harini Sri R
 
-🎓 B.Tech Student in Artificial Intelligence and Data Science
-💻 Passionate about coding, problem-solving, and building intelligent systems
-🚀 Focused on becoming a Data Scientist
+🎓 B.Tech Student | Artificial Intelligence & Data Science
+💡 Aspiring Data Scientist | AI & ML Enthusiast
+🚀 Passionate about building real-world intelligent systems
 
 ---
 
 ## 🔍 About Me
 
-I am interested in applying technology to solve real-world problems.
-Currently, I am strengthening my programming skills, exploring Machine Learning concepts, and building small projects to improve my practical knowledge.
+I am a B.Tech student specializing in Artificial Intelligence and Data Science, with a strong interest in solving real-world problems using data-driven approaches.
+
+Currently, I am focused on:
+
+* Developing Machine Learning and NLP-based applications
+* Strengthening Data Structures & Algorithms
+* Building full-stack projects using modern technologies
 
 ---
 
 ## 💻 Skills
 
-### 👩‍💻 Programming Languages
+### 👩‍💻 Programming
 
-* Python
-* Java
+Python, Java
 
 ### 🌐 Web Development
 
-* HTML
-* CSS
-* JavaScript
+HTML, CSS, JavaScript
 
-### 🤖 AI & Data
+### 🤖 AI & Data Science
 
-* Machine Learning
-* Data Analysis
+Machine Learning, Data Analysis, Pandas, NumPy
 
 ### 🛠️ Tools
 
-* Power BI
-* Git & GitHub
+Git, GitHub, Power BI, VS Code
 
 ---
 
 ## 🚀 Projects
 
-* 🧠 Mental Health Chatbot (AI-based emotional support system using NLP)
-* 📊 COVID-19 Dashboard (Power BI data visualization of pandemic trends and insights)
-* 🌦️ Weather Application
-* 📚 Book Management App (Booksky)
+### 🧠 Mental Health Chatbot
+
+* Developed an AI-based chatbot using NLP techniques
+* Performs basic emotion detection and generates responses
+* Built using Python and Flask
+
+### 📊 COVID-19 Dashboard
+
+* Created interactive dashboards to visualize pandemic data
+* Used Power BI for data analysis and insights
+
+### 🌦️ Weather Application
+
+* Built a web application to fetch real-time weather data
+* Integrated APIs and dynamic UI
+
+### 📚 Book Management App (Booksky)
+
+* Developed a web-based book tracking system
+* Implemented CRUD operations using JavaScript
 
 ---
 
 ## 🧠 Coding Practice
 
-I regularly practice coding to improve my problem-solving skills:
-
-* LeetCode: https://leetcode.com/harinibrindhasri
-* GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2/
+* LeetCode: https://leetcode.com/u/harinibrindhasri/
+* GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
 
 ---
 
@@ -63,4 +77,4 @@ I regularly practice coding to improve my problem-solving skills:
 
 ---
 
-⭐ *“Consistently learning and improving step by step.”*
+⭐ *Focused on continuous learning and building impactful solutions.*
