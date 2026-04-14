@@ -1,80 +1,104 @@
 # 👋 Hi, I'm Harini Sri R
 
-🎓 B.Tech Student | Artificial Intelligence & Data Science
-💡 Aspiring Data Scientist | AI & ML Enthusiast
-🚀 Passionate about building real-world intelligent systems
+🎓 B.Tech | Artificial Intelligence & Data Science
+💡 Aspiring Data Scientist | AI Enthusiast
+🚀 Building intelligent systems that solve real-world problems
 
 ---
 
 ## 🔍 About Me
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Science, with a strong interest in solving real-world problems using data-driven approaches.
+I am a passionate AI & Data Science student focused on applying **Machine Learning and NLP** to solve real-world challenges.
 
-Currently, I am focused on:
+🔹 Currently working on:
 
-* Developing Machine Learning and NLP-based applications
-* Strengthening Data Structures & Algorithms
-* Building full-stack projects using modern technologies
+* AI-powered applications (NLP & sentiment analysis)
+* Strengthening **Data Structures & Algorithms**
+* Developing full-stack projects with real-world use cases
+
+🔹 Career Goal:
+To become a **Data Scientist / AI Engineer** and contribute to impactful, scalable solutions.
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
-### 👩‍💻 Programming
+### 👩‍💻 Programming Languages
 
-Python, Java
+* Python
+* Java
 
 ### 🌐 Web Development
 
-HTML, CSS, JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ### 🤖 AI & Data Science
 
-Machine Learning, Data Analysis, Pandas, NumPy
+* Machine Learning
+* Natural Language Processing (NLP)
+* Data Analysis (Pandas, NumPy)
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
-Git, GitHub, Power BI, VS Code
+* Git & GitHub
+* Power BI
+* VS Code
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 Mental Health Chatbot
+### 🛡️ ShieldAI – Toxic Content Detection System
 
-* Developed an AI-based chatbot using NLP techniques
-* Performs basic emotion detection and generates responses
-* Built using Python and Flask
+* Developed an **AI-powered system** to detect toxic and abusive content in real time
+* Implemented **NLP techniques, sentiment analysis, and intent classification**
+* Focused on improving online safety and reducing cyberbullying
 
-### 📊 COVID-19 Dashboard
+---
 
-* Created interactive dashboards to visualize pandemic data
-* Used Power BI for data analysis and insights
+### 🤖 Mental Health Chatbot
+
+* Built an NLP-based chatbot for emotional support
+* Performs **emotion detection and context-based responses**
+* Developed using Python and Flask
+
+---
+
+### 📊 COVID-19 Data Dashboard
+
+* Designed interactive dashboards using **Power BI**
+* Visualized pandemic trends and extracted meaningful insights
+
+---
 
 ### 🌦️ Weather Application
 
-* Built a web application to fetch real-time weather data
-* Integrated APIs and dynamic UI
+* Developed a real-time weather app using APIs
+* Implemented dynamic UI with JavaScript
 
-### 📚 Book Management App (Booksky)
+---
 
-* Developed a web-based book tracking system
-* Implemented CRUD operations using JavaScript
+### 📚 Book Management System (Booksky)
+
+* Created a web-based CRUD application
+* Allows users to manage and track books efficiently
 
 ---
 
 ## 🧠 Coding Practice
 
-* LeetCode: https://leetcode.com/u/harinibrindhasri/
-* GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
+* 🔗 LeetCode: https://leetcode.com/u/harinibrindhasri/
+* 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
-* Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
+* 📧 Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
 
 ---
 
-⭐ *Focused on continuous learning and building impactful solutions.*
+⭐ *Always learning, building, and striving to create impactful AI solutions.*
