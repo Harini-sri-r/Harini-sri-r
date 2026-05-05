@@ -1,46 +1,46 @@
 # 👋 Hi, I'm Harini Sri R
 
-🎓 B.Tech | Artificial Intelligence & Data Science
-💡 Aspiring Data Scientist | AI Enthusiast
-🚀 Building intelligent systems that solve real-world problems
+🎓 B.Tech in Artificial Intelligence & Data Science
+💡 Interested in Data Science, Machine Learning & NLP
+🚀 I enjoy building practical AI solutions that solve real-world problems
 
 ---
 
 ## 🔍 About Me
 
-I am a passionate AI & Data Science student focused on applying **Machine Learning and NLP** to solve real-world challenges.
+I am an AI & Data Science student with a strong interest in building intelligent systems that are useful and impactful. I enjoy working on projects related to **machine learning, natural language processing, and real-world applications**.
 
-🔹 Currently working on:
+🔹 Currently focusing on:
 
-* AI-powered applications (NLP & sentiment analysis)
-* Strengthening **Data Structures & Algorithms**
-* Developing full-stack projects with real-world use cases
+* AI-based applications using ML & NLP
+* Strengthening Data Structures & Algorithms
+* Building full-stack projects
 
-🔹 Career Goal:
-To become a **Data Scientist / AI Engineer** and contribute to impactful, scalable solutions.
+🎯 **Goal:**
+To become a Data Scientist / AI Engineer and contribute to meaningful solutions.
 
 ---
 
 ## 💻 Technical Skills
 
-### 👩‍💻 Programming Languages
+### 👩‍💻 Programming
 
 * Python
 * Java
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 
 * HTML
 * CSS
 * JavaScript
 
-### 🤖 AI & Data Science
+### 🤖 AI & Data
 
 * Machine Learning
-* Natural Language Processing (NLP)
+* Natural Language Processing
 * Data Analysis (Pandas, NumPy)
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 * Git & GitHub
 * Power BI
@@ -48,57 +48,53 @@ To become a **Data Scientist / AI Engineer** and contribute to impactful, scalab
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛡️ ShieldAI – Toxic Content Detection System
+### 🧩 Autism Learning Platform
 
-* Developed an **AI-powered system** to detect toxic and abusive content in real time
-* Implemented **NLP techniques, sentiment analysis, and intent classification**
-* Focused on improving online safety and reducing cyberbullying
+* Created a learning platform for children with Autism Spectrum Disorder (ASD)
+* Designed activities to improve communication, memory, and learning skills
+* Built adaptive features based on user interaction
+* Focused on simple and accessible UI for children and caregivers
+* Supports inclusive and personalized learning
+
+---
+
+### 🛡️ ShieldAI – Toxic Content Detection
+
+* Developed a system to detect harmful and abusive text
+* Applied NLP techniques for classification
+* Helps improve online safety
 
 ---
 
 ### 🤖 Mental Health Chatbot
 
 * Built an NLP-based chatbot for emotional support
-* Performs **emotion detection and context-based responses**
-* Developed using Python and Flask
+* Performs emotion detection and response generation
+* Developed using Python (Flask)
 
 ---
 
 ### 📊 COVID-19 Data Dashboard
 
-* Designed interactive dashboards using **Power BI**
-* Visualized pandemic trends and extracted meaningful insights
+* Created dashboards using Power BI
+* Visualized trends and insights
 
 ---
 
-### 🌦️ Weather Application
-
-* Developed a real-time weather app using APIs
-* Implemented dynamic UI with JavaScript
-
----
-
-### 📚 Book Management System (Booksky)
-
-* Created a web-based CRUD application
-* Allows users to manage and track books efficiently
-
----
-
-## 🧠 Coding Practice
+## 🧠 Coding Profiles
 
 * 🔗 LeetCode: https://leetcode.com/u/harinibrindhasri/
 * 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
 * 📧 Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
 
 ---
 
-⭐ *Always learning, building, and striving to create impactful AI solutions.*
+⭐ Always learning and building to create impactful AI solutions.
