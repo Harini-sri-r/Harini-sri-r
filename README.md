@@ -1,29 +1,31 @@
 # 👋 Hi, I'm Harini Sri R
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-💡 Interested in Data Science, Machine Learning & NLP
-🚀 I enjoy building practical AI solutions that solve real-world problems
+🎓 **B.Tech in Artificial Intelligence & Data Science**
+💡 Passionate about Data Science, Machine Learning & Natural Language Processing
+🚀 Building practical AI solutions that solve real-world problems
 
 ---
 
 ## 🔍 About Me
 
-I am an AI & Data Science student with a strong interest in building intelligent systems that are useful and impactful. I enjoy working on projects related to **machine learning, natural language processing, and real-world applications**.
+I am an AI & Data Science student with a strong interest in developing intelligent systems that are useful, impactful, and user-centric. I enjoy working on projects involving **Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), and Full-Stack AI Applications**.
 
-🔹 Currently focusing on:
+🔹 **Currently focusing on:**
 
-* AI-based applications using ML & NLP
-* Strengthening Data Structures & Algorithms
-* Building full-stack projects
+* AI-powered applications using ML & NLP
+* Retrieval-Augmented Generation (RAG) and LLMs
+* Data Structures & Algorithms
+* Building full-stack AI projects
+* Real-world problem solving through AI
 
 🎯 **Goal:**
-To become a Data Scientist / AI Engineer and contribute to meaningful solutions.
+To become a **Data Scientist / AI Engineer** and contribute to meaningful, innovative AI solutions.
 
 ---
 
 ## 💻 Technical Skills
 
-### 👩‍💻 Programming
+### 👩‍💻 Programming Languages
 
 * Python
 * Java
@@ -37,18 +39,32 @@ To become a Data Scientist / AI Engineer and contribute to meaningful solutions.
 ### 🤖 AI & Data
 
 * Machine Learning
-* Natural Language Processing
+* Natural Language Processing (NLP)
+* Retrieval-Augmented Generation (RAG)
 * Data Analysis (Pandas, NumPy)
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
 * Git & GitHub
 * Power BI
 * VS Code
+* Flask
 
 ---
 
 ## 🚀 Projects
+
+### 📚 ResearchGPT – AI-Powered Research Assistant
+
+* Developed an intelligent research assistant using **Llama, Retrieval-Augmented Generation (RAG), and Semantic Search**
+* Supports PDF upload and conversational question answering over research papers
+* Uses vector embeddings for context-aware information retrieval
+* Generates AI-powered summaries and enables efficient research exploration
+* Designed to simplify literature review and improve research productivity
+
+**Tech Stack:** Python, Llama, RAG, Semantic Search, Vector Database, NLP, Embeddings
+
+---
 
 ### 🧩 Autism Learning Platform
 
@@ -63,38 +79,38 @@ To become a Data Scientist / AI Engineer and contribute to meaningful solutions.
 ### 🛡️ ShieldAI – Toxic Content Detection
 
 * Developed a system to detect harmful and abusive text
-* Applied NLP techniques for classification
-* Helps improve online safety
+* Applied NLP techniques for text classification
+* Helps improve online safety and content moderation
 
 ---
 
 ### 🤖 Mental Health Chatbot
 
 * Built an NLP-based chatbot for emotional support
-* Performs emotion detection and response generation
-* Developed using Python (Flask)
+* Performs emotion detection and context-aware response generation
+* Developed using Python and Flask
 
 ---
 
 ### 📊 COVID-19 Data Dashboard
 
-* Created dashboards using Power BI
-* Visualized trends and insights
+* Created interactive dashboards using Power BI
+* Visualized trends and insights from COVID-19 datasets
 
 ---
 
 ## 🧠 Coding Profiles
 
-* 🔗 LeetCode: https://leetcode.com/u/harinibrindhasri/
-* 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
+* 💻 **LeetCode:** https://leetcode.com/u/harinibrindhasri/
+* 💻 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/harinibri8vf2
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
-* 📧 Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/harini-sri-r-212b70294/
+* 📧 **Email:** [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
 
 ---
 
-⭐ Always learning and building to create impactful AI solutions.
+⭐ *Always learning, always building, and passionate about creating impactful AI solutions.*
