@@ -1,49 +1,49 @@
 # 👋 Hi, I'm Harini Sri R
 
 🎓 **B.Tech in Artificial Intelligence & Data Science**
-💡 Passionate about Data Science, Machine Learning & Natural Language Processing
-🚀 Building practical AI solutions that solve real-world problems
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science & Natural Language Processing
+🚀 Building intelligent solutions to solve real-world problems
 
 ---
 
 ## 🔍 About Me
 
-I am an AI & Data Science student with a strong interest in developing intelligent systems that are useful, impactful, and user-centric. I enjoy working on projects involving **Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), and Full-Stack AI Applications**.
+I'm an AI & Data Science student who enjoys developing practical AI applications and continuously learning new technologies. My interests include **Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Data Analytics**.
 
-🔹 **Currently focusing on:**
+### 🌱 Currently Learning
 
-* AI-powered applications using ML & NLP
-* Retrieval-Augmented Generation (RAG) and LLMs
+* Machine Learning & NLP
+* Retrieval-Augmented Generation (RAG)
+* LLM-based Applications
 * Data Structures & Algorithms
-* Building full-stack AI projects
-* Real-world problem solving through AI
+* Full-Stack AI Development
 
-🎯 **Goal:**
-To become a **Data Scientist / AI Engineer** and contribute to meaningful, innovative AI solutions.
+🎯 **Career Goal:** Become a Data Scientist / AI Engineer and build impactful AI solutions.
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-### 👩‍💻 Programming Languages
+**Languages**
 
 * Python
 * Java
 
-### 🌐 Web Technologies
+**Web**
 
 * HTML
 * CSS
 * JavaScript
 
-### 🤖 AI & Data
+**AI & Data**
 
 * Machine Learning
 * Natural Language Processing (NLP)
 * Retrieval-Augmented Generation (RAG)
-* Data Analysis (Pandas, NumPy)
+* Pandas
+* NumPy
 
-### 🛠️ Tools & Technologies
+**Tools**
 
 * Git & GitHub
 * Power BI
@@ -52,64 +52,62 @@ To become a **Data Scientist / AI Engineer** and contribute to meaningful, innov
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 📚 ResearchGPT – AI-Powered Research Assistant
+## 📚 ResearchGPT – AI-Powered Research Assistant
 
-* Developed an intelligent research assistant using **Llama, Retrieval-Augmented Generation (RAG), and Semantic Search**
-* Supports PDF upload and conversational question answering over research papers
-* Uses vector embeddings for context-aware information retrieval
-* Generates AI-powered summaries and enables efficient research exploration
-* Designed to simplify literature review and improve research productivity
+* AI-powered research assistant built using **Llama, RAG, and Semantic Search**
+* Supports PDF upload and intelligent question answering
+* Uses vector embeddings for context-aware retrieval
+* Generates concise summaries of research papers
+* Designed to simplify literature review and research exploration
 
-**Tech Stack:** Python, Llama, RAG, Semantic Search, Vector Database, NLP, Embeddings
-
----
-
-### 🧩 Autism Learning Platform
-
-* Created a learning platform for children with Autism Spectrum Disorder (ASD)
-* Designed activities to improve communication, memory, and learning skills
-* Built adaptive features based on user interaction
-* Focused on simple and accessible UI for children and caregivers
-* Supports inclusive and personalized learning
+**Tech:** Python • Llama • RAG • Semantic Search • ChromaDB • NLP • Embeddings
 
 ---
 
-### 🛡️ ShieldAI – Toxic Content Detection
+## 🧩 Autism Learning Platform
 
-* Developed a system to detect harmful and abusive text
-* Applied NLP techniques for text classification
-* Helps improve online safety and content moderation
-
----
-
-### 🤖 Mental Health Chatbot
-
-* Built an NLP-based chatbot for emotional support
-* Performs emotion detection and context-aware response generation
-* Developed using Python and Flask
+* Learning platform designed for children with Autism Spectrum Disorder (ASD)
+* Interactive activities to improve communication and learning
+* Adaptive features based on user interaction
+* Accessible and user-friendly interface
 
 ---
 
-### 📊 COVID-19 Data Dashboard
+## 🛡️ ShieldAI – Toxic Content Detection
 
-* Created interactive dashboards using Power BI
-* Visualized trends and insights from COVID-19 datasets
+* NLP-based harmful text detection system
+* Text classification for online safety and moderation
+
+---
+
+## 🤖 Mental Health Chatbot
+
+* NLP-powered chatbot for emotional support
+* Emotion detection and context-aware responses
+* Built using Python and Flask
+
+---
+
+## 📊 COVID-19 Data Dashboard
+
+* Interactive dashboards built using Power BI
+* Data visualization and trend analysis
 
 ---
 
 ## 🧠 Coding Profiles
 
-* 💻 **LeetCode:** https://leetcode.com/u/harinibrindhasri/
-* 💻 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/harinibri8vf2
+* 💻 LeetCode: https://leetcode.com/u/harinibrindhasri/
+* 💻 GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/harini-sri-r-212b70294/
-* 📧 **Email:** [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
+* 📧 Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
 
 ---
 
