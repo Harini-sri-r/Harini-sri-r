@@ -1,54 +1,81 @@
-# 👋 Hi, I'm Harini Sri R
+# Hi 👋, I'm Harini Sri R
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science & Natural Language Processing
-🚀 Building intelligent solutions to solve real-world problems
+### AI & Data Science Student | Aspiring AI Engineer | Machine Learning Enthusiast
+
+🎓 **B.Tech Artificial Intelligence & Data Science**
+📍 Coimbatore, Tamil Nadu, India
+💡 Passionate about AI, Machine Learning, NLP, Generative AI, and Data Science
+🚀 Building intelligent systems that solve real-world problems
 
 ---
 
-## 🔍 About Me
+## 🚀 About Me
 
-I'm an AI & Data Science student who enjoys developing practical AI applications and continuously learning new technologies. My interests include **Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Data Analytics**.
+I am a final-year Artificial Intelligence & Data Science student with a strong interest in developing AI-powered applications using Machine Learning, Natural Language Processing, and Large Language Models.
 
-### 🌱 Currently Learning
+I enjoy transforming complex problems into practical solutions through data-driven approaches and continuously improving my technical skills through projects, coding practice, and research.
 
-* Machine Learning & NLP
+### 🎯 Career Objective
+
+To work as an **AI Engineer / Data Scientist**, contributing to innovative AI solutions and impactful real-world applications.
+
+---
+
+## 🌱 Currently Learning
+
+* Generative AI & Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
-* LLM-based Applications
+* Advanced Machine Learning
 * Data Structures & Algorithms
-* Full-Stack AI Development
-
-🎯 **Career Goal:** Become a Data Scientist / AI Engineer and build impactful AI solutions.
+* Full-Stack AI Application Development
+* MLOps & Model Deployment
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-**Languages**
+### Programming Languages
 
 * Python
 * Java
+* C
 
-**Web**
+### Web Technologies
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 
-**AI & Data**
+### AI & Machine Learning
 
 * Machine Learning
+* Deep Learning
 * Natural Language Processing (NLP)
 * Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+
+### Libraries & Frameworks
+
+* Scikit-Learn
 * Pandas
 * NumPy
+* Flask
+* TensorFlow
 
-**Tools**
+### Databases
 
-* Git & GitHub
+* MySQL
+* PostgreSQL
+* ChromaDB
+
+### Tools & Platforms
+
+* Git
+* GitHub
 * Power BI
 * VS Code
-* Flask
+* Docker
+* Postman
 
 ---
 
@@ -56,59 +83,106 @@ I'm an AI & Data Science student who enjoys developing practical AI applications
 
 ## 📚 ResearchGPT – AI-Powered Research Assistant
 
-* AI-powered research assistant built using **Llama, RAG, and Semantic Search**
-* Supports PDF upload and intelligent question answering
-* Uses vector embeddings for context-aware retrieval
-* Generates concise summaries of research papers
-* Designed to simplify literature review and research exploration
+An intelligent research assistant built using LLMs and Retrieval-Augmented Generation.
 
-**Tech:** Python • Llama • RAG • Semantic Search • ChromaDB • NLP • Embeddings
+### Features
+
+* PDF Upload & Processing
+* Semantic Search
+* Context-Aware Question Answering
+* Research Paper Summarization
+* Literature Review Generation
+* Multi-document Retrieval
+* Vector Database Integration
+
+### Technologies
+
+Python • FastAPI • Llama • RAG • ChromaDB • NLP • Embeddings • PostgreSQL
 
 ---
 
 ## 🧩 Autism Learning Platform
 
-* Learning platform designed for children with Autism Spectrum Disorder (ASD)
-* Interactive activities to improve communication and learning
-* Adaptive features based on user interaction
-* Accessible and user-friendly interface
+An interactive educational platform designed to support children with Autism Spectrum Disorder (ASD).
+
+### Features
+
+* Interactive Learning Activities
+* User-Friendly Interface
+* Adaptive Learning Experience
+* Accessibility-Focused Design
 
 ---
 
 ## 🛡️ ShieldAI – Toxic Content Detection
 
-* NLP-based harmful text detection system
-* Text classification for online safety and moderation
+An NLP-based text moderation system that detects harmful and toxic content.
+
+### Features
+
+* Toxic Comment Classification
+* Online Content Moderation
+* Text Processing & NLP Pipelines
 
 ---
 
 ## 🤖 Mental Health Chatbot
 
-* NLP-powered chatbot for emotional support
-* Emotion detection and context-aware responses
-* Built using Python and Flask
+An AI-powered chatbot designed to provide emotional support and wellness assistance.
+
+### Features
+
+* Emotion Detection
+* Context-Aware Conversations
+* Personalized User Interaction
+* Flask-Based Deployment
 
 ---
 
-## 📊 COVID-19 Data Dashboard
+## 📊 COVID-19 Data Analytics Dashboard
 
-* Interactive dashboards built using Power BI
-* Data visualization and trend analysis
+A Power BI dashboard for visualizing COVID-19 trends and insights.
 
----
+### Features
 
-## 🧠 Coding Profiles
-
-* 💻 LeetCode: https://leetcode.com/u/harinibrindhasri/
-* 💻 GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
-* 📧 Email: [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+* Interactive Dashboards
+* Trend Analysis
+* Data Visualization
+* Reporting & Insights
 
 ---
 
-⭐ *Always learning, always building, and passionate about creating impactful AI solutions.*
+# 🏆 Achievements
+
+* Solved 450+ DSA Problems
+* Active LeetCode Practitioner
+* Built Multiple AI & NLP Projects
+* Smart India Hackathon Participant
+
+---
+
+# 💻 Coding Profiles
+
+### LeetCode
+
+https://leetcode.com/u/harinibrindhasri/
+
+### GeeksforGeeks
+
+https://www.geeksforgeeks.org/profile/harinibri8vf2
+
+---
+
+# 📫 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/harini-sri-r-212b70294/
+
+### Email
+
+[harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+
+---
+
+⭐ "Always Learning, Always Building, Always Improving."
