@@ -104,8 +104,6 @@ An intelligent research assistant built using LLMs and Retrieval-Augmented Gener
 
 **Python • FastAPI • Llama 3 • RAG • ChromaDB • PostgreSQL • NLP • Sentence Transformers**
 
-🔗 GitHub Repository: https://github.com/Harini-sri-r/ResearchGPT-AI-Research-Assistant
-
 ---
 
 ## 🧠 NeuroScan AI – Brain Tumor Detection System
@@ -122,8 +120,6 @@ A Deep Learning-based application for detecting brain tumors from MRI scan image
 ### Technologies
 
 **Python • TensorFlow • CNN • OpenCV**
-
-🔗 GitHub Repository: https://github.com/Harini-sri-r/NeuroScan-AI-Brain-Tumor-Detection-System
 
 ---
 
