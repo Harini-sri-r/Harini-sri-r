@@ -7,11 +7,13 @@
 💡 Passionate about AI, Machine Learning, NLP, Generative AI, and Data Science
 🚀 Building intelligent systems that solve real-world problems
 
+🌐 **Portfolio:** https://harinisri-portfolio.vercel.app/
+
 ---
 
 ## 🚀 About Me
 
-I am a final-year Artificial Intelligence & Data Science student with a strong interest in developing AI-powered applications using Machine Learning, Natural Language Processing, and Large Language Models.
+I am a final-year Artificial Intelligence & Data Science student at Dr. N.G.P. Institute of Technology with a strong interest in developing AI-powered applications using Machine Learning, Natural Language Processing, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
 I enjoy transforming complex problems into practical solutions through data-driven approaches and continuously improving my technical skills through projects, coding practice, and research.
 
@@ -60,6 +62,7 @@ To work as an **AI Engineer / Data Scientist**, contributing to innovative AI so
 * Pandas
 * NumPy
 * Flask
+* FastAPI
 * TensorFlow
 
 ### Databases
@@ -72,10 +75,11 @@ To work as an **AI Engineer / Data Scientist**, contributing to innovative AI so
 
 * Git
 * GitHub
-* Power BI
-* VS Code
 * Docker
+* Power BI
 * Postman
+* VS Code
+* Vercel
 
 ---
 
@@ -92,37 +96,34 @@ An intelligent research assistant built using LLMs and Retrieval-Augmented Gener
 * Context-Aware Question Answering
 * Research Paper Summarization
 * Literature Review Generation
-* Multi-document Retrieval
+* Research Gap Analysis
+* Multi-Document Retrieval
 * Vector Database Integration
 
 ### Technologies
 
-Python • FastAPI • Llama • RAG • ChromaDB • NLP • Embeddings • PostgreSQL
+**Python • FastAPI • Llama 3 • RAG • ChromaDB • PostgreSQL • NLP • Sentence Transformers**
+
+🔗 GitHub Repository: https://github.com/Harini-sri-r/ResearchGPT-AI-Research-Assistant
 
 ---
 
-## 🧩 Autism Learning Platform
+## 🧠 NeuroScan AI – Brain Tumor Detection System
 
-An interactive educational platform designed to support children with Autism Spectrum Disorder (ASD).
+A Deep Learning-based application for detecting brain tumors from MRI scan images.
 
 ### Features
 
-* Interactive Learning Activities
+* MRI Image Classification
+* CNN-Based Prediction
+* Medical Image Processing
 * User-Friendly Interface
-* Adaptive Learning Experience
-* Accessibility-Focused Design
 
----
+### Technologies
 
-## 🛡️ ShieldAI – Toxic Content Detection
+**Python • TensorFlow • CNN • OpenCV**
 
-An NLP-based text moderation system that detects harmful and toxic content.
-
-### Features
-
-* Toxic Comment Classification
-* Online Content Moderation
-* Text Processing & NLP Pipelines
+🔗 GitHub Repository: https://github.com/Harini-sri-r/NeuroScan-AI-Brain-Tumor-Detection-System
 
 ---
 
@@ -134,34 +135,52 @@ An AI-powered chatbot designed to provide emotional support and wellness assista
 
 * Emotion Detection
 * Context-Aware Conversations
+* Mood Tracking
 * Personalized User Interaction
-* Flask-Based Deployment
+
+### Technologies
+
+**Python • Flask • NLP • Machine Learning**
 
 ---
 
-## 📊 COVID-19 Data Analytics Dashboard
+## 🧩 Autism Learning Platform
 
-A Power BI dashboard for visualizing COVID-19 trends and insights.
+An interactive educational platform designed to support children with Autism Spectrum Disorder (ASD).
 
 ### Features
 
-* Interactive Dashboards
-* Trend Analysis
-* Data Visualization
-* Reporting & Insights
+* Interactive Learning Activities
+* Adaptive Learning Experience
+* Accessibility-Focused Design
+* Child-Friendly Interface
 
 ---
 
-# 🏆 Achievements
+## 🛡️ ShieldAI – Toxic Content Detection
+
+An NLP-based text moderation system that detects harmful and toxic content.
+
+### Features
+
+* Toxic Comment Classification
+* Content Moderation
+* Text Processing Pipelines
+* Real-Time Predictions
+
+---
+
+## 🏆 Achievements
 
 * Solved 450+ DSA Problems
 * Active LeetCode Practitioner
 * Built Multiple AI & NLP Projects
 * Smart India Hackathon Participant
+* NPTEL Elite + Gold Certification in Human Computer Interaction (Score: 95%)
 
 ---
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 ### LeetCode
 
@@ -173,11 +192,19 @@ https://www.geeksforgeeks.org/profile/harinibri8vf2
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
+
+### Portfolio
+
+https://harinisri-portfolio.vercel.app/
 
 ### LinkedIn
 
 https://www.linkedin.com/in/harini-sri-r-212b70294/
+
+### GitHub
+
+https://github.com/Harini-sri-r
 
 ### Email
 
@@ -185,4 +212,4 @@ https://www.linkedin.com/in/harini-sri-r-212b70294/
 
 ---
 
-⭐ "Always Learning, Always Building, Always Improving."
+⭐ **"Always Learning, Always Building, Always Improving."**
