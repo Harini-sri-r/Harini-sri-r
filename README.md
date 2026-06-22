@@ -168,7 +168,7 @@ An NLP-based text moderation system that detects harmful and toxic content.
 
 ## 🏆 Achievements
 
-* Solved 450+ DSA Problems
+* Solved 500+ DSA Problems
 * Active LeetCode Practitioner
 * Built Multiple AI & NLP Projects
 * Smart India Hackathon Participant
