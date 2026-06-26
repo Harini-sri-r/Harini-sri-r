@@ -1,112 +1,117 @@
 # Hi 👋, I'm Harini Sri R
 
-### AI & Data Science Student | Aspiring AI Engineer & Full-Stack Developer
+<h3 align="center">AI & Data Science Student | Aspiring AI Engineer & Full-Stack Developer</h3>
 
-🎓 **B.Tech Artificial Intelligence & Data Science**
-📍 Coimbatore, Tamil Nadu, India
+<p align="center">
+🎓 B.Tech Artificial Intelligence & Data Science <br>
+📍 Coimbatore, Tamil Nadu, India <br><br>
 
-💡 Passionate about **Artificial Intelligence, Full-Stack Development, Machine Learning, NLP, Generative AI, and Data Science.**
+💡 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, NLP, Generative AI, and Data Science.
 
-🚀 Building intelligent AI applications and scalable full-stack web solutions that solve real-world problems.
-
-🌐 **Portfolio:** https://harinisri-portfolio.vercel.app/
+🚀 Building intelligent AI applications and scalable full-stack web solutions.
+</p>
 
 ---
 
 # 🚀 About Me
 
-I am a final-year **Artificial Intelligence & Data Science** student at **Dr. N.G.P. Institute of Technology** with a strong passion for Artificial Intelligence, Machine Learning, and Full-Stack Development.
-
-I enjoy building intelligent applications using Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG), while also developing scalable web applications with modern backend technologies and databases.
-
-I believe in continuous learning and enjoy solving real-world problems through innovative software solutions, coding practice, research, and hands-on projects.
+- 🎓 Final-year B.Tech Artificial Intelligence & Data Science student
+- 🤖 Passionate about AI, Machine Learning, NLP & Generative AI
+- 🌐 Interested in Full-Stack Development using Spring Boot & Modern Web Technologies
+- 💻 Solved **500+ DSA Problems**
+- 🏆 Smart India Hackathon Participant
+- 📚 NPTEL Elite + Gold Certification (Human Computer Interaction - Score: 95%)
+- 🌱 Continuously learning and building impactful software
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-To work as an **AI Engineer, Machine Learning Engineer, Full-Stack Developer, or Software Engineer**, contributing to innovative products that combine intelligent AI systems with scalable web technologies.
+To work as an **AI Engineer, Machine Learning Engineer, Full-Stack Developer, or Software Engineer**, building scalable and intelligent applications that solve real-world problems.
 
 ---
 
 # 🌱 Currently Learning
 
-* Full-Stack Development
-* Spring Boot
-* React.js
-* Generative AI & Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Advanced Machine Learning
-* Data Structures & Algorithms
-* MLOps & Cloud Deployment
+- Spring Boot
+- React.js
+- Full-Stack Development
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Advanced Machine Learning
+- Data Structures & Algorithms
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 
-## Programming Languages
+### Languages
 
-* Python
-* Java
-* C
-* JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Frontend
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## Backend
+### Frontend
 
-* Spring Boot (Learning)
-* FastAPI
-* Flask
-* REST APIs
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-## AI & Machine Learning
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## Libraries & Frameworks
+### Backend
 
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Databases
-
-* MySQL
-* PostgreSQL
-* ChromaDB
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ---
 
-## Tools & Platforms
+### AI & ML
 
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
-* Power BI
-* Vercel
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
@@ -114,143 +119,113 @@ To work as an **AI Engineer, Machine Learning Engineer, Full-Stack Developer, or
 
 ## 📚 ResearchGPT – AI-Powered Research Assistant
 
-An intelligent research assistant built using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to simplify research paper analysis.
+- PDF Upload & Processing
+- Semantic Search
+- Context-Aware Question Answering
+- Literature Review Generation
+- Research Gap Analysis
 
-### Features
-
-* PDF Upload & Processing
-* Semantic Search
-* Context-Aware Question Answering
-* Research Paper Summarization
-* Literature Review Generation
-* Research Gap Analysis
-* Multi-Document Retrieval
-* Vector Database Integration
-
-### Technologies
-
-**Python • FastAPI • Llama 3 • RAG • ChromaDB • PostgreSQL • Sentence Transformers • Docker**
+**Tech:** FastAPI • Llama 3 • RAG • PostgreSQL • ChromaDB • Docker
 
 ---
 
 ## 🧠 NeuroScan AI – Brain Tumor Detection System
 
-A Deep Learning-based application that detects brain tumors from MRI scan images using Convolutional Neural Networks (CNNs).
+- MRI Image Classification
+- CNN-Based Prediction
+- Medical Image Processing
 
-### Features
-
-* MRI Image Classification
-* CNN-Based Prediction
-* Medical Image Processing
-* User-Friendly Interface
-
-### Technologies
-
-**Python • TensorFlow • CNN • OpenCV**
+**Tech:** Python • TensorFlow • CNN • OpenCV
 
 ---
 
 ## 🤖 Mental Health Chatbot
 
-An AI-powered chatbot designed to provide emotional support and wellness assistance through intelligent conversations.
+- Emotion Detection
+- Mood Tracking
+- AI Conversations
 
-### Features
-
-* Emotion Detection
-* Context-Aware Conversations
-* Mood Tracking
-* Personalized User Interaction
-
-### Technologies
-
-**Python • Flask • NLP • Machine Learning**
+**Tech:** Flask • NLP • Machine Learning
 
 ---
 
 ## 🧩 Autism Learning Platform
 
-An interactive educational platform designed to support children with Autism Spectrum Disorder (ASD) through engaging and accessible learning experiences.
+- Interactive Learning
+- Accessibility Focused
+- Adaptive Education
 
-### Features
-
-* Interactive Learning Activities
-* Adaptive Learning Experience
-* Accessibility-Focused Design
-* Child-Friendly Interface
-
-### Technologies
-
-**HTML • CSS • JavaScript • Python**
+**Tech:** HTML • CSS • JavaScript • Python
 
 ---
 
 ## 🛡️ ShieldAI – Toxic Content Detection
 
-An NLP-based text moderation system that detects harmful and toxic online content using Machine Learning.
+- Toxic Comment Detection
+- NLP Pipeline
+- Real-Time Prediction
 
-### Features
-
-* Toxic Comment Classification
-* Content Moderation
-* Text Processing Pipelines
-* Real-Time Predictions
-
-### Technologies
-
-**Python • Machine Learning • NLP • Scikit-Learn**
+**Tech:** Python • NLP • Scikit-Learn
 
 ---
 
 # 🏆 Achievements
 
-* 🏅 Solved **500+ DSA Problems**
-* 💻 Active LeetCode Practitioner
-* 🤖 Built Multiple AI & NLP Projects
-* 🏆 Smart India Hackathon Participant
-* 🥇 NPTEL **Elite + Gold Certification** in Human Computer Interaction (Score: 95%)
+- ✅ Solved **500+ DSA Problems**
+- 🏅 Smart India Hackathon Participant
+- 🥇 NPTEL Elite + Gold (95%)
+- 💻 Built Multiple AI & Full-Stack Projects
 
 ---
 
-# 💻 Coding Profiles
+# 📊 GitHub Stats
 
-## LeetCode
+![](https://github-readme-stats.vercel.app/api?username=Harini-sri-r&show_icons=true&theme=tokyonight&hide_border=true)
 
-https://leetcode.com/u/harinibrindhasri/
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini-sri-r&layout=compact&theme=tokyonight&hide_border=true)
 
-## GeeksforGeeks
-
-https://www.geeksforgeeks.org/profile/harinibri8vf2
+![](https://streak-stats.demolab.com?user=Harini-sri-r&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📫 Connect With Me
+# 💻 LeetCode Stats
 
-## 🌐 Portfolio
+<p align="center">
 
-https://harinisri-portfolio.vercel.app/
+<img src="https://leetcard.jacoblin.cool/harinibrindhasri?theme=dark&font=Baloo&ext=contest" />
 
-## 💼 LinkedIn
-
-https://www.linkedin.com/in/harini-sri-r-212b70294/
-
-## 📧 Email
-
-[harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GeeksforGeeks Stats
 
-![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harini-sri-r\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini-sri-r\&layout=compact\&theme=tokyonight)
+<a href="https://www.geeksforgeeks.org/user/harinibri8vf2/">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=harinibri8vf2" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harini-sri-r\&theme=tokyonight)
+</p>
 
 ---
 
-### 🤝 Let's Connect!
+# 🌐 Connect With Me
 
-I'm always interested in collaborating on **AI, Machine Learning, Generative AI, and Full-Stack Development** projects. Feel free to connect with me and explore my work!
+📧 Email: **harinibrindhasri@gmail.com**
 
-⭐ **"Always Learning. Always Building. Always Improving."**
+💼 LinkedIn: https://www.linkedin.com/in/harini-sri-r-212b70294/
+
+🌐 Portfolio: https://harinisri-portfolio.vercel.app/
+
+💻 LeetCode: https://leetcode.com/u/harinibrindhasri/
+
+📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/harinibri8vf2
+
+---
+
+<h3 align="center">
+
+⭐ Always Learning • Always Building • Always Improving ⭐
+
+</h3>
