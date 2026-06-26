@@ -198,10 +198,6 @@ https://harinisri-portfolio.vercel.app/
 
 https://www.linkedin.com/in/harini-sri-r-212b70294/
 
-### GitHub
-
-https://github.com/Harini-sri-r
-
 ### Email
 
 [harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
