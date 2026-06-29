@@ -219,8 +219,8 @@ HTML • CSS • JavaScript • Python
 
 # 📈 Coding Profiles
 
-* 💻 LeetCode
-* 📚 GeeksforGeeks
+- [LeetCode](https://leetcode.com/u/harinibrindhasri/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/harinibri8vf2/)
 
 ---
 
