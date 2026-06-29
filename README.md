@@ -217,10 +217,11 @@ HTML • CSS • JavaScript • Python
 
 ---
 
-# 📈 Coding Profiles
+## 💻 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/harinibrindhasri/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/harinibri8vf2/)
+| LeetCode | GeeksforGeeks |
+| :-------: | :-----------: |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/harinibrindhasri?theme=dark&font=Karma&ext=contest) | [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/harinibri8vf2)](https://www.geeksforgeeks.org/profile/harinibri8vf2/) |
 
 ---
 
