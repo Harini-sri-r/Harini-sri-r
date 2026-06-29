@@ -1,46 +1,35 @@
-# Hi 👋, I'm Harini Sri R
+# Hi there 👋, I'm **Harini Sri R**
 
-### AI & Data Science Student | Aspiring AI Engineer & Full-Stack Developer
+### AI & Data Science Student | AI Engineer | Full-Stack Developer
 
 🎓 **B.Tech Artificial Intelligence & Data Science**
 📍 Coimbatore, Tamil Nadu, India
 
-💡 Passionate about **Artificial Intelligence, Full-Stack Development, Machine Learning, NLP, Generative AI, and Data Science.**
+---
 
-🚀 Building intelligent AI applications and scalable full-stack web solutions that solve real-world problems.
+## 🚀 About Me
 
-🌐 **Portfolio:** https://harinisri-portfolio.vercel.app/
+I am a final-year **Artificial Intelligence & Data Science** student at **Dr. N.G.P. Institute of Technology** with a passion for building intelligent AI systems and scalable full-stack applications.
+
+My interests include **Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Generative AI, and Full-Stack Development**.
+
+I enjoy transforming ideas into practical software solutions and continuously improve my skills by building real-world projects and solving Data Structures & Algorithms problems.
 
 ---
 
-# 🚀 About Me
+## 🌐 Portfolio
 
-I am a final-year **Artificial Intelligence & Data Science** student at **Dr. N.G.P. Institute of Technology** with a strong interest in Artificial Intelligence, Machine Learning, and Full-Stack Development.
-
-I enjoy building intelligent applications using Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern web technologies. I am passionate about solving real-world problems through software development and continuously improving my technical skills by building projects and practicing Data Structures & Algorithms.
+🔗 **Portfolio:** https://harinisri-portfolio.vercel.app/
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Objective
 
-To work as an **AI Engineer, Machine Learning Engineer, Full-Stack Developer, or Software Engineer**, contributing to innovative products that combine intelligent AI systems with scalable web technologies.
-
----
-
-# 🌱 Currently Learning
-
-* Spring Boot
-* React.js
-* Full-Stack Development
-* Generative AI & Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Advanced Machine Learning
-* MLOps & Cloud Deployment
-* Data Structures & Algorithms
+Seeking opportunities as an **AI Engineer**, **Machine Learning Engineer**, **Software Engineer**, or **Full-Stack Developer**, where I can contribute to innovative AI-powered products and scalable software solutions.
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 
 ### Programming Languages
 
@@ -68,6 +57,7 @@ To work as an **AI Engineer, Machine Learning Engineer, Full-Stack Developer, or
 * Machine Learning
 * Deep Learning
 * Natural Language Processing (NLP)
+* Computer Vision
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 
@@ -96,58 +86,105 @@ To work as an **AI Engineer, Machine Learning Engineer, Full-Stack Developer, or
 
 ---
 
+# 🌱 Currently Learning
+
+* Spring Boot
+* React.js
+* Full-Stack Development
+* Advanced Machine Learning
+* Generative AI
+* LLM Applications
+* MLOps
+* Cloud Deployment
+* Data Structures & Algorithms
+
+---
+
 # 🚀 Featured Projects
 
-## 📚 ResearchGPT – AI-Powered Research Assistant
+## 📚 ResearchGPT – AI Research Assistant
 
-An intelligent research assistant built using LLMs and Retrieval-Augmented Generation.
+AI-powered research assistant leveraging **RAG**, **Llama 3**, and **ChromaDB** for intelligent research paper analysis.
 
 ### Features
 
 * PDF Upload & Processing
 * Semantic Search
-* Context-Aware Question Answering
-* Research Paper Summarization
+* Question Answering
 * Literature Review Generation
 * Research Gap Analysis
 * Multi-Document Retrieval
-* Vector Database Integration
 
-### Technologies
+**Tech Stack**
 
-Python • FastAPI • Llama 3 • RAG • ChromaDB • PostgreSQL • Sentence Transformers • Docker
+Python • FastAPI • Llama 3 • RAG • ChromaDB • PostgreSQL • Docker
 
 ---
 
-## 🧠 NeuroScan AI – Brain Tumor Detection System
+## 🎬 CineGen AI
 
-A deep learning application that detects brain tumors from MRI scan images.
+AI-powered text-to-video generation system that transforms stories into cinematic videos.
 
 ### Features
 
-* MRI Image Classification
+* Story-to-Video Generation
+* Scene Generation
+* AI Voice Narration
+* Cinematic Image Generation
+* Video Rendering
+
+**Tech Stack**
+
+Python • FastAPI • Llama 3 • Pollinations AI • MoviePy • Edge-TTS • PostgreSQL
+
+---
+
+## 🧠 NeuroScan AI
+
+Deep learning application for automated brain tumor detection from MRI images.
+
+### Features
+
 * CNN-Based Prediction
+* MRI Image Classification
 * Medical Image Processing
 * User-Friendly Interface
 
-### Technologies
+**Tech Stack**
 
 Python • TensorFlow • CNN • OpenCV
 
 ---
 
+## 🛡️ ShieldAI
+
+AI-powered NLP system for detecting toxic comments and preventing online harassment.
+
+### Features
+
+* Toxic Comment Classification
+* Text Processing
+* Real-Time Prediction
+* Content Moderation
+
+**Tech Stack**
+
+Python • NLP • Scikit-Learn
+
+---
+
 ## 🤖 Mental Health Chatbot
 
-An AI-powered chatbot for emotional support and wellness assistance.
+AI-powered chatbot designed to provide emotional support and wellness assistance.
 
 ### Features
 
 * Emotion Detection
-* Context-Aware Conversations
 * Mood Tracking
-* Personalized User Interaction
+* Personalized Conversations
+* Wellness Support
 
-### Technologies
+**Tech Stack**
 
 Python • Flask • NLP • Machine Learning
 
@@ -155,90 +192,57 @@ Python • Flask • NLP • Machine Learning
 
 ## 🧩 Autism Learning Platform
 
-An educational platform designed to support children with Autism Spectrum Disorder.
+AI-powered educational platform designed for children with Autism Spectrum Disorder.
 
 ### Features
 
-* Interactive Learning Activities
-* Adaptive Learning Experience
+* Interactive Learning
+* Personalized Learning
 * Accessibility-Focused Design
-* Child-Friendly Interface
+* Child-Friendly Activities
 
-### Technologies
+**Tech Stack**
 
 HTML • CSS • JavaScript • Python
 
 ---
 
-## 🛡️ ShieldAI – Toxic Content Detection
-
-An NLP-based content moderation system for detecting toxic comments.
-
-### Features
-
-* Toxic Comment Classification
-* Content Moderation
-* Text Processing Pipeline
-* Real-Time Prediction
-
-### Technologies
-
-Python • NLP • Scikit-Learn
-
----
-
 # 🏆 Achievements
 
-* 🏅 Solved **500+ DSA Problems**
-* 💻 Active LeetCode Practitioner
+* 🥇 NPTEL Elite + Gold Certification (Human Computer Interaction - 95%)
+* 💻 Solved 500+ Data Structures & Algorithms Problems
 * 🏆 Smart India Hackathon Participant
-* 🥇 NPTEL Elite + Gold Certification in Human Computer Interaction (Score: 95%)
-* 🤖 Built Multiple AI & Full-Stack Projects
+* 🤖 Developed Multiple AI & Full-Stack Projects
+* 📚 Active LeetCode Practitioner
 
 ---
 
-# 💻 LeetCode Stats
+# 📈 Coding Profiles
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/harinibrindhasri?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-# 📈 GeeksforGeeks Stats
-
-<p align="center">
-<a href="https://www.geeksforgeeks.org/profile/harinibri8vf2">
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=harinibri8vf2" />
-</a>
-</p>
+* 💻 LeetCode
+* 📚 GeeksforGeeks
 
 ---
 
 # 📫 Connect With Me
 
-### 🌐 Portfolio
+🌐 Portfolio
+**https://harinisri-portfolio.vercel.app/**
 
-https://harinisri-portfolio.vercel.app/
+💼 LinkedIn
+**https://www.linkedin.com/in/harini-sri-r-212b70294/**
 
-### 💼 LinkedIn
+💻 LeetCode
+**https://leetcode.com/u/harinibrindhasri/**
 
-https://www.linkedin.com/in/harini-sri-r-212b70294/
+📚 GeeksforGeeks
+**https://www.geeksforgeeks.org/profile/harinibri8vf2**
 
-### 💻 LeetCode
-
-https://leetcode.com/u/harinibrindhasri/
-
-### 📚 GeeksforGeeks
-
-https://www.geeksforgeeks.org/profile/harinibri8vf2
-
-### 📧 Email
-
-[harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)
+📧 Email
+**[harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)**
 
 ---
 
-<h3 align="center">
-⭐ Always Learning • Always Building • Always Improving ⭐
-</h3>
+## ⭐ Quote
+
+> *"Always Learning • Always Building • Always Improving."*
