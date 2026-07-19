@@ -244,15 +244,20 @@ HTML • CSS • JavaScript • Python
 
 ---
 
+<div align="center">
+
 ## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 ---
 
 ## ⭐ Quote
