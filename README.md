@@ -51,13 +51,13 @@ where I can contribute to impactful products while continuously learning and gro
 
 ## 💼 Skills
 
-**Programming:** Python • Java • C • JavaScript • SQL
+**Programming:** Python • Java • C • SQL
 
 **AI/ML:** Machine Learning • Deep Learning • NLP • Computer Vision • LLMs • RAG • Generative AI • Prompt Engineering
 
 **Frameworks:** FastAPI • Flask • Spring Boot • TensorFlow • Scikit-Learn
 
-**Frontend:** HTML • CSS • JavaScript • Responsive Design
+**Frontend:** HTML • CSS • JavaScript 
 
 **Databases:** MySQL • PostgreSQL • ChromaDB
 
