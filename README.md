@@ -49,60 +49,23 @@ where I can contribute to impactful products while continuously learning and gro
 
 ---
 
-# 💻 Tech Stack
+## 💼 Skills
 
-### Languages
+**Programming:** Python • Java • C • JavaScript • SQL
 
-- Python
-- Java
-- C
-- JavaScript
+**AI/ML:** Machine Learning • Deep Learning • NLP • Computer Vision • LLMs • RAG • Generative AI • Prompt Engineering
 
-### Frontend
+**Frameworks:** FastAPI • Flask • Spring Boot • TensorFlow • Scikit-Learn
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+**Frontend:** HTML • CSS • JavaScript • Responsive Design
 
-### Backend
+**Databases:** MySQL • PostgreSQL • ChromaDB
 
-- Spring Boot
-- FastAPI
-- Flask
-- REST APIs
+**Tools:** Git • GitHub • Docker • Postman • VS Code • Power BI • Vercel
 
-### AI & Machine Learning
+**Core CS:** DSA • OOP • DBMS • OS • Computer Networks
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-
-### Libraries
-
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-
-### Databases
-
-- MySQL
-- PostgreSQL
-- ChromaDB
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
-- Power BI
-- Vercel
+**Currently Learning:** React.js • MLOps • Cloud Deployment • Advanced Machine Learning
 
 ---
 
