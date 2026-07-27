@@ -1,171 +1,189 @@
-# Hi there 👋, I'm **Harini Sri R**
+# Hi there! 👋 I'm Harini sri R
 
 ### AI & Data Science Student | AI Engineer | Full-Stack Developer
 
-🎓 **B.Tech Artificial Intelligence & Data Science**
+🎓 Final Year B.Tech Artificial Intelligence & Data Science Student  
 📍 Coimbatore, Tamil Nadu, India
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I am a final-year **Artificial Intelligence & Data Science** student at **Dr. N.G.P. Institute of Technology** with a passion for building intelligent AI systems and scalable full-stack applications.
+I'm a final-year Artificial Intelligence & Data Science student at **Dr. N.G.P. Institute of Technology** who enjoys turning ideas into real-world software.
 
-My interests include **Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Generative AI, and Full-Stack Development**.
+I love building applications that combine **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development** to solve practical problems. Whether it's developing AI assistants, training deep learning models, or creating modern web applications, I enjoy learning by building.
 
-I enjoy transforming ideas into practical software solutions and continuously improve my skills by building real-world projects and solving Data Structures & Algorithms problems.
+I'm always exploring new technologies, improving my coding skills, and solving Data Structures & Algorithms problems to become a better software engineer every day.
+
+---
+
+## 🚀 What I'm Interested In
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 💬 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- 🦙 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ✨ Generative AI
+- 🌐 Full-Stack Development
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio:** https://harinisri-portfolio.vercel.app/
+🔗 **https://harinisri-portfolio.vercel.app**
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-Seeking opportunities as an **AI Engineer**, **Machine Learning Engineer**, **Software Engineer**, or **Full-Stack Developer**, where I can contribute to innovative AI-powered products and scalable software solutions.
+I'm currently looking for opportunities as an
+
+- AI Engineer
+- Machine Learning Engineer
+- Software Engineer
+- Full-Stack Developer
+
+where I can contribute to impactful products while continuously learning and growing as an engineer.
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-* Python
-* Java
-* C
-* JavaScript
+- Python
+- Java
+- C
+- JavaScript
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
 ### Backend
 
-* Spring Boot
-* FastAPI
-* Flask
-* REST APIs
+- Spring Boot
+- FastAPI
+- Flask
+- REST APIs
 
 ### AI & Machine Learning
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Computer Vision
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
 
-### Libraries & Frameworks
+### Libraries
 
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
+- TensorFlow
+- Scikit-Learn
+- Pandas
+- NumPy
 
 ### Databases
 
-* MySQL
-* PostgreSQL
-* ChromaDB
+- MySQL
+- PostgreSQL
+- ChromaDB
 
-### Tools & Platforms
+### Tools
 
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
-* Power BI
-* Vercel
+- Git
+- GitHub
+- Docker
+- VS Code
+- Postman
+- Power BI
+- Vercel
 
 ---
 
 # 🌱 Currently Learning
 
-* Spring Boot
-* React.js
-* Full-Stack Development
-* Advanced Machine Learning
-* Generative AI
-* LLM Applications
-* MLOps
-* Cloud Deployment
-* Data Structures & Algorithms
+- Spring Boot
+- React.js
+- MLOps
+- Cloud Deployment
+- Advanced Machine Learning
+- LLM Applications
+- Data Structures & Algorithms
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 ResearchGPT – AI Research Assistant
+## 📚 ResearchGPT
 
-AI-powered research assistant leveraging **RAG**, **Llama 3**, and **ChromaDB** for intelligent research paper analysis.
+An AI-powered research assistant that helps users understand research papers using Retrieval-Augmented Generation (RAG).
 
-### Features
+### Highlights
 
-* PDF Upload & Processing
-* Semantic Search
-* Question Answering
-* Literature Review Generation
-* Research Gap Analysis
-* Multi-Document Retrieval
+- Upload and analyse research papers
+- Semantic search
+- AI-powered question answering
+- Literature review generation
+- Research gap identification
+- Multi-document retrieval
 
 **Tech Stack**
 
-Python • FastAPI • Llama 3 • RAG • ChromaDB • PostgreSQL • Docker
+Python • FastAPI • Llama 3 • ChromaDB • PostgreSQL • Docker
 
 ---
 
 ## 🎬 CineGen AI
 
-AI-powered text-to-video generation system that transforms stories into cinematic videos.
+Transforms stories into cinematic videos using AI.
 
-### Features
+### Highlights
 
-* Story-to-Video Generation
-* Scene Generation
-* AI Voice Narration
-* Cinematic Image Generation
-* Video Rendering
+- Story-to-video generation
+- Scene generation
+- AI voice narration
+- Image generation
+- Video rendering
 
 **Tech Stack**
 
-Python • FastAPI • Llama 3 • Pollinations AI • MoviePy • Edge-TTS • PostgreSQL
+Python • FastAPI • Llama 3 • Pollinations AI • MoviePy • Edge-TTS
 
 ---
 
 ## 🧠 NeuroScan AI
 
-Deep learning application for automated brain tumor detection from MRI images.
+A deep learning application that detects brain tumours from MRI images.
 
-### Features
+### Highlights
 
-* CNN-Based Prediction
-* MRI Image Classification
-* Medical Image Processing
-* User-Friendly Interface
+- CNN-based prediction
+- MRI image classification
+- Medical image processing
+- Simple and intuitive interface
 
 **Tech Stack**
 
-Python • TensorFlow • CNN • OpenCV
+Python • TensorFlow • OpenCV
 
 ---
 
 ## 🛡️ ShieldAI
 
-AI-powered NLP system for detecting toxic comments and preventing online harassment.
+A machine learning application that detects toxic comments to help create safer online communities.
 
-### Features
+### Highlights
 
-* Toxic Comment Classification
-* Text Processing
-* Real-Time Prediction
-* Content Moderation
+- Toxic comment detection
+- Text preprocessing
+- Real-time prediction
+- Content moderation
 
 **Tech Stack**
 
@@ -175,31 +193,31 @@ Python • NLP • Scikit-Learn
 
 ## 🤖 Mental Health Chatbot
 
-AI-powered chatbot designed to provide emotional support and wellness assistance.
+An AI chatbot designed to provide emotional support through personalised conversations.
 
-### Features
+### Highlights
 
-* Emotion Detection
-* Mood Tracking
-* Personalized Conversations
-* Wellness Support
+- Emotion detection
+- Mood tracking
+- Wellness support
+- Conversational AI
 
 **Tech Stack**
 
-Python • Flask • NLP • Machine Learning
+Python • Flask • Machine Learning
 
 ---
 
 ## 🧩 Autism Learning Platform
 
-AI-powered educational platform designed for children with Autism Spectrum Disorder.
+An interactive educational platform built to support children with Autism Spectrum Disorder.
 
-### Features
+### Highlights
 
-* Interactive Learning
-* Personalized Learning
-* Accessibility-Focused Design
-* Child-Friendly Activities
+- Interactive learning
+- Personalised activities
+- Accessible interface
+- Child-friendly design
 
 **Tech Stack**
 
@@ -209,44 +227,49 @@ HTML • CSS • JavaScript • Python
 
 # 🏆 Achievements
 
-* 🥇 NPTEL Elite + Gold Certification (Human Computer Interaction - 95%)
-* 💻 Solved 500+ Data Structures & Algorithms Problems
-* 🏆 Smart India Hackathon Participant
-* 🤖 Developed Multiple AI & Full-Stack Projects
-* 📚 Active LeetCode Practitioner
+🏅 NPTEL Elite + Gold (Human Computer Interaction – 95%)
+
+💻 Solved 500+ Data Structures & Algorithms Problems
+
+🏆 Smart India Hackathon Participant
+
+🤖 Built multiple AI & Full-Stack projects
+
+📚 Active LeetCode Learner
 
 ---
 
-## 💻 Coding Profiles
+# 📊 Coding Profiles
 
 | LeetCode | GeeksforGeeks |
-| :-------: | :-----------: |
+|:---------:|:-------------:|
 | ![LeetCode Stats](https://leetcard.jacoblin.cool/harinibrindhasri?theme=dark&font=Karma&ext=contest) | [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/harinibri8vf2)](https://www.geeksforgeeks.org/profile/harinibri8vf2/) |
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-🌐 Portfolio
-**https://harinisri-portfolio.vercel.app/**
+🌐 Portfolio  
+https://harinisri-portfolio.vercel.app
 
-💼 LinkedIn
-**https://www.linkedin.com/in/harini-sri-r-212b70294/**
+💼 LinkedIn  
+https://www.linkedin.com/in/harini-sri-r-212b70294/
 
-💻 LeetCode
-**https://leetcode.com/u/harinibrindhasri/**
+💻 GitHub  
+https://github.com/Harini-sri-r
 
-📚 GeeksforGeeks
-**https://www.geeksforgeeks.org/profile/harinibri8vf2**
+💻 LeetCode  
+https://leetcode.com/u/harinibrindhasri/
 
-📧 Email
-**[harinibrindhasri@gmail.com](mailto:harinibrindhasri@gmail.com)**
+📚 GeeksforGeeks  
+https://www.geeksforgeeks.org/profile/harinibri8vf2/
+
+📧 Email  
+harinibrindhasri@gmail.com
 
 ---
 
-<div align="center">
-
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -257,9 +280,8 @@ HTML • CSS • JavaScript • Python
        src="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
 ---
 
-## ⭐ Quote
+## 💭 A Quote I Live By
 
-> *"Always Learning • Always Building • Always Improving."*
+> *"Learning never stops. Every project is an opportunity to improve, every challenge is a chance to grow."* 🚀
