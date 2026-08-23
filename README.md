@@ -232,19 +232,6 @@ harinibrindhasri@gmail.com
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/Harini-sri-r/Harini-sri-r/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 💭 A Quote I Live By
 
 > *"Learning never stops. Every project is an opportunity to improve, every challenge is a chance to grow."* 🚀
