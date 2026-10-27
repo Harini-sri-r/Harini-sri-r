@@ -1,208 +1,131 @@
-# 👋 Hi there! I'm Harini Sri R
+# Hi, I'm Harini Sri R 👋
 
-### 🤖 AI Engineer | Generative AI & LLM Applications | Full-Stack Developer
+### AI Engineer | Generative AI & LLM Applications | Full-Stack Developer
 
-🎓 Final-year B.Tech student in Artificial Intelligence & Data Science (2027)  
-📍 Coimbatore, Tamil Nadu, India
+Final-year B.Tech student in **Artificial Intelligence and Data Science** at Dr. N.G.P. Institute of Technology, Coimbatore, graduating in 2027.
 
----
+I build AI-powered applications that combine **LLMs, Retrieval-Augmented Generation (RAG), machine learning, and backend engineering** to solve practical problems.
 
-## 👩‍💻 About Me
+- 🤖 Interested in Generative AI, LLM applications, and AI agents
+- 🔎 Building intelligent knowledge assistants and semantic search systems
+- ⚙️ Developing APIs and end-to-end AI applications with Python and FastAPI
+- 🧠 Exploring NLP, deep learning, computer vision, and production AI systems
+- 💻 Solved 500+ Data Structures and Algorithms problems
 
-I'm a final-year Artificial Intelligence and Data Science student at **Dr. N.G.P. Institute of Technology**, passionate about building intelligent applications that solve real-world problems.
-
-I enjoy developing end-to-end AI systems that combine **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, and software engineering**. From designing semantic search pipelines to building AI-powered assistants and backend APIs, I enjoy turning ideas into practical applications.
-
-- 🤖 Exploring Generative AI, LLMs, and AI agents
-- 📚 Building RAG-based applications and intelligent knowledge assistants
-- 🧠 Interested in Machine Learning, Deep Learning, NLP, and Computer Vision
-- 💻 Solving Data Structures and Algorithms problems
-- 🚀 Learning to build, optimize, and deploy production-ready AI systems
+🌐 **Portfolio:** [harinisri-portfolio.vercel.app](https://harinisri-portfolio.vercel.app)
 
 ---
 
-## 🎯 Career Interests
+## Technical Skills
 
-I'm looking for opportunities in:
+**Programming:** Python, Java, C, SQL
 
-- AI Engineer / Generative AI Engineer
-- Machine Learning Engineer
-- Applied AI Engineer
-- Software Engineer
-- Full-Stack Developer
+**AI & Machine Learning:** Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow, Scikit-learn
 
-My goal is to contribute to impactful products while continuously improving my engineering and problem-solving skills.
+**Generative AI:** LLMs, RAG, Prompt Engineering, Embeddings, Semantic Search, LLM Applications
 
----
+**Backend Development:** FastAPI, Flask, REST APIs, Spring Boot
 
-## 🌐 Portfolio
+**Frontend Development:** HTML, CSS, JavaScript
 
-🔗 **[Visit My Portfolio](https://harinisri-portfolio.vercel.app)**
+**Databases & Vector Search:** PostgreSQL, MySQL, ChromaDB
 
----
+**Tools & Deployment:** Docker, Git, GitHub, Postman, VS Code, Vercel, Power BI
 
-## 💼 Technical Skills
-
-**Programming Languages**  
-Python • Java • C • SQL
-
-**Artificial Intelligence & Machine Learning**  
-Machine Learning • Deep Learning • NLP • Computer Vision • TensorFlow • Scikit-learn
-
-**Generative AI & LLMs**  
-LLMs • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Semantic Search • Embeddings • LLM Applications
-
-**Backend Development**  
-FastAPI • Flask • REST APIs • Spring Boot
-
-**Frontend Development**  
-HTML • CSS • JavaScript
-
-**Databases & Vector Search**  
-PostgreSQL • MySQL • ChromaDB
-
-**DevOps & Developer Tools**  
-Docker • Git • GitHub • Postman • VS Code • Vercel • Power BI
-
-**Core Computer Science**  
-Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Computer Networks
+**Computer Science Fundamentals:** Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📚 ResearchGPT — AI Research Paper Intelligence System
+### 1. ResearchGPT — AI Research Paper Intelligence System
 
-An AI-powered research assistant that helps users explore and understand research papers using Large Language Models and Retrieval-Augmented Generation.
+An AI-powered research assistant that helps users search, analyze, and understand research papers using RAG and LLMs.
 
 **Key Features**
-- 📄 Research paper PDF upload and text extraction
-- 🔍 Semantic search across research documents
-- 💬 Context-aware question answering
-- 📚 Literature review generation
-- 🧩 Research gap identification
-- 🔗 Multi-document retrieval and citation-based responses
+- PDF ingestion, text extraction, and document chunking
+- Semantic search across research papers
+- Context-aware question answering
+- Literature review assistance and research gap identification
+- Multi-document retrieval and citation-based responses
 
-**Tech Stack:** Python • FastAPI • Llama 3 • Sentence Transformers • ChromaDB • PostgreSQL • Docker
+**Tech Stack:** Python, FastAPI, Llama 3, Sentence Transformers, ChromaDB, PostgreSQL, Docker
 
----
+### 2. Lenny Growth Assistant — RAG-Powered Knowledge Assistant
 
-### 🧠 Lenny Growth Assistant — RAG-Powered Knowledge Assistant
-
-A RAG-based AI assistant that allows users to explore newsletter and podcast transcript collections through conversational search.
+A conversational knowledge assistant that enables semantic search and question answering across newsletter and podcast transcripts.
 
 **Key Features**
-- 📥 Document ingestion and text chunking
-- 🧮 Embedding generation and vector-based retrieval
-- 🔍 Semantic search across a knowledge base
-- 💬 Context-aware answers using an LLM
-- ⚙️ FastAPI backend and database integration
-- 🐳 Docker-based development and deployment workflow
-- 🛠️ Ingestion validation and debugging of indexing issues
+- Document ingestion, chunking, and embedding generation
+- Vector-based retrieval from a knowledge base
+- Context-grounded LLM responses
+- FastAPI backend and PostgreSQL integration
+- Docker-based development and ingestion validation
 
-**Tech Stack:** Python • FastAPI • RAG • LLMs • Embeddings • Vector Search • PostgreSQL • Docker
+**Tech Stack:** Python, FastAPI, RAG, LLMs, Embeddings, ChromaDB, PostgreSQL, Docker
 
----
+### 3. CineGen AI — Story-to-Video Generator
 
-### 🎬 CineGen AI — AI-Powered Story-to-Video Generator
+An AI application that transforms written stories into cinematic video experiences through automated scene generation, visuals, narration, and video assembly.
 
-An AI application that transforms written stories into cinematic video experiences.
+**Tech Stack:** Python, FastAPI, Llama 3, Pollinations AI, MoviePy, Edge-TTS
 
-**Key Features**
-- 📝 Story-to-scene generation
-- 🎨 AI-generated visuals
-- 🎙️ AI voice narration
-- 🎞️ Automated video assembly and rendering
+### 4. NeuroScan AI — Brain Tumour Detection
 
-**Tech Stack:** Python • FastAPI • Llama 3 • Pollinations AI • MoviePy • Edge-TTS
+A deep learning application for MRI image preprocessing and brain tumour classification using convolutional neural networks.
 
----
+**Tech Stack:** Python, TensorFlow, OpenCV
 
-### 🧠 NeuroScan AI — Brain Tumour Detection
+### 5. ShieldAI — Toxic Comment Detection
 
-A deep learning application that analyses MRI images for brain tumour classification.
+An NLP-based application that classifies toxic comments to support safer online communities.
 
-**Key Features**
-- 🧠 CNN-based image classification
-- 🖼️ MRI image preprocessing
-- 🔬 Deep learning inference
-- 🖥️ User-friendly prediction interface
+**Tech Stack:** Python, NLP, Scikit-learn, Machine Learning
 
-**Tech Stack:** Python • TensorFlow • OpenCV
+### 6. Mental Health Chatbot
 
----
+A conversational application designed to provide supportive interactions, analyze emotion-related text, and support mood reflection.
 
-### 🛡️ ShieldAI — Toxic Comment Detection
+**Tech Stack:** Python, Flask, Machine Learning
 
-A machine learning and NLP application that identifies toxic comments to support safer online communities.
+### 7. Autism Learning Platform
 
-**Key Features**
-- 📝 Text preprocessing
-- 🔎 Toxic comment classification
-- ⚡ Prediction-based content moderation
+An interactive educational platform focused on accessible, personalized, and engaging learning activities for children with autism.
 
-**Tech Stack:** Python • NLP • Scikit-learn
+**Tech Stack:** HTML, CSS, JavaScript, Python
 
 ---
 
-### 🤖 Mental Health Chatbot
-
-A conversational application designed to provide supportive interactions and encourage users to reflect on their moods.
-
-**Key Features**
-- 💬 Conversational AI
-- 🧠 Emotion-related text analysis
-- 📊 Mood tracking
-- 🌱 Wellness support
-
-**Tech Stack:** Python • Flask • Machine Learning
-
----
-
-### 🧩 Autism Learning Platform
-
-An interactive educational platform designed to support engaging and accessible learning experiences for children with autism.
-
-**Key Features**
-- 🎯 Interactive learning activities
-- 🧩 Personalised educational experiences
-- ♿ Accessible interface
-- 🎨 Child-friendly design
-
-**Tech Stack:** HTML • CSS • JavaScript • Python
-
----
-
-## 🏆 Achievements
+## Achievements
 
 - 🥇 **NPTEL Elite + Gold** — Human Computer Interaction, 95%
-- 💻 Solved **500+ Data Structures & Algorithms problems**
-- 🏆 Smart India Hackathon participant
-- 🚀 Built multiple AI, ML, and full-stack projects
-- 📈 Continuously practising coding and interview problem-solving
+- 💻 **500+ DSA problems solved** on coding platforms
+- 🏆 Participated in Smart India Hackathon
+- 📄 Research work accepted for oral presentation at IEEE AISIGH–SD 2026
+- 🚀 Developed multiple AI, ML, and full-stack applications
 
 ---
 
-## 📊 Coding Profiles
+## Coding Profiles
 
-| LeetCode | GeeksforGeeks |
-|:---:|:---:|
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/harinibrindhasri?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/harinibrindhasri/) | [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/harinibri8vf2)](https://www.geeksforgeeks.org/profile/harinibri8vf2/) |
+| Platform | Profile |
+|---|---|
+| LeetCode | [View Profile](https://leetcode.com/u/harinibrindhasri/) |
+
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- React.js and modern frontend development
-- Advanced Machine Learning and model evaluation
-- MLOps and cloud deployment
-- Production-ready LLM applications
+- Advanced RAG pipelines and retrieval optimization
 - AI agents and intelligent workflows
-- Data Structures & Algorithms
+- React.js and modern frontend development
+- Model evaluation and applied machine learning
+- MLOps, cloud deployment, and production AI engineering
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🌐 **Portfolio:** [harinisri-portfolio.vercel.app](https://harinisri-portfolio.vercel.app)
 - 💼 **LinkedIn:** [Harini Sri R](https://www.linkedin.com/in/harini-sri-r-212b70294/)
@@ -213,8 +136,6 @@ An interactive educational platform designed to support engaging and accessible 
 
 ---
 
-## 💭 A Quote I Live By
-
-> *"Learning never stops. Every project is an opportunity to improve, and every challenge is a chance to grow."* 🚀
+> *“Learning never stops. Every project is an opportunity to improve, and every challenge is a chance to grow.”*
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
