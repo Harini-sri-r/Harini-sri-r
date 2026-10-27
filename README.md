@@ -1,4 +1,4 @@
-# Hi, I'm Harini Sri R 👋
+# Hi, I'm Harini sri R 👋
 
 ### AI Engineer | Generative AI & LLM Applications | Full-Stack Developer
 
